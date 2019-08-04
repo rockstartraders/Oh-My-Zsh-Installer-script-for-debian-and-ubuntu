@@ -39,11 +39,25 @@ Oh-My-Zsh Installer script
 
    4. run it. 
 
-        #### `./zsh_install.sh`
-
+      #### `./zsh_install.sh`
+        
 <br>
     
    5. Just wait for it to finish. 
+
+
+<br>
+
+## Lastly Set ZSH as default 
+Run this via terminal:  
+#### `chsh -s $(which zsh)`
+
+<br>
+<br>
+ 
+ ### [View modification intruction here for plugins and themes. ](https://github.com/robbyrussell/oh-my-zsh)
+   
+
 
 
 
