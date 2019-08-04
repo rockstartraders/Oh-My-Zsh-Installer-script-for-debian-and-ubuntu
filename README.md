@@ -1,3 +1,4 @@
+
 <h1><p align="center">
 Oh-My-Zsh Installer script 
 </p></h1>
@@ -12,33 +13,40 @@ Oh-My-Zsh Installer script
 ### [You can find Documentation here ](https://github.com/robbyrussell/oh-my-zsh)
    
 
-
-### Install Instruction: 
+ ### Install Instruction: 
 
 1. Clone the this repo. 
-### `git clone https://github.com/rockstartraders/Oh-My-Zsh-Installer-script-for-debian-and-ubuntu`
+    #### `git clone https://github.com/rockstartraders/Oh-My-Zsh-Installer-script-for-debian-and-ubuntu`
 
    If git is not installed just download it then extract it to your pc.. 
 
 <br>
 <br>
-
  
  2. After cloning go to the directory.
 
-   ### `cd Oh-My-Zsh-Installer-script-for-debian-and-ubuntu`
+      #### `cd Oh-My-Zsh-Installer-script-for-debian-and-ubuntu`
 
 <br>
 <br>
 
    3. Change Permission.
 
-   ### `chmod u+x zsh_install.sh`
-   If permission error occurs you know the drill  [sudo](https://en.wikipedia.org/wiki/Sudo) is the key.
+      #### `chmod u+x zsh_install.sh`
+         If permission error occurs you know the drill  [sudo](https://en.wikipedia.org/wiki/Sudo) is the key.
 
-<br>
 <br>
 
    4. run it. 
 
-   ### `./zsh_install.sh`
+        #### `./zsh_install.sh`
+
+<br>
+    
+   5. Just wait for it to finish. 
+
+
+
+
+
+  
