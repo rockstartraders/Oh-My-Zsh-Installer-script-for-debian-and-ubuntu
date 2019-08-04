@@ -166,6 +166,7 @@ echo "Please refer to this documentation : https://github.com/robbyrussell/oh-my
 echo
 echo
 echo "Thank You....     " 
+echo
 zsh
 
 
