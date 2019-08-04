@@ -10,6 +10,8 @@ Oh-My-Zsh Installer script
 
 - Since I keep on changing my device and Love Zsh a lot I decided to automate it because I'm tired of reading the documentation and I guess that's what bash scipting is all about .... LOL.
 
+- Kudos to Mr. Robby Russel for building such an awesome package.
+
 ### [You can find Documentation here ](https://github.com/robbyrussell/oh-my-zsh)
    
 
@@ -53,7 +55,7 @@ Run this via terminal:
 #### `chsh -s $(which zsh)`
 
 
-### [View modification instruction here for plugins and themes & Kudos to Mr. Robby Russel for building this.](https://github.com/robbyrussell/oh-my-zsh)
+### [View modification instruction here for plugins and themes.](https://github.com/robbyrussell/oh-my-zsh)
    
 
 
