@@ -1,4 +1,3 @@
-
 <h1><p align="center">
 Oh-My-Zsh Installer script 
 </p></h1>
@@ -29,3 +28,17 @@ Oh-My-Zsh Installer script
 
    ### `cd Oh-My-Zsh-Installer-script-for-debian-and-ubuntu`
 
+<br>
+<br>
+
+   3. Change Permission.
+
+   ### `chmod u+x zsh_install.sh`
+   If permission error occurs you know the drill  [sudo](https://en.wikipedia.org/wiki/Sudo) is the key.
+
+<br>
+<br>
+
+   4. run it. 
+
+   ### `./zsh_install.sh`
