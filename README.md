@@ -54,7 +54,6 @@ Oh-My-Zsh Installer script
 Run this via terminal:  
 #### `chsh -s $(which zsh)`
 
-
 ### [View modification instruction here for plugins and themes.](https://github.com/robbyrussell/oh-my-zsh)
    
 
